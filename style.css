@@ -1,4 +1,4 @@
-<img src= "coding-imagem.jpg">
+
 h1 {
     color::shadow;
     text-align:center;
@@ -12,5 +12,5 @@ body{
     background-color: paleturquoise;
 }
 #imagem {
-    width: 200px;
+    width: 50px;
 }
